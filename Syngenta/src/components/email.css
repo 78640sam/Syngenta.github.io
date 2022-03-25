@@ -1,0 +1,22 @@
+input{
+    padding:7px;
+    border-radius: 5px;
+    margin-right: 10px;
+    width:400px;
+    height:2rem;
+}
+button{
+    
+color:rgb(2, 1, 17);
+border-radius: 6px;
+padding:5px;
+width:100px;
+    height:3rem;
+}
+button:hover{
+    background-color: aquamarine;
+    border-radius: 6px;
+    padding:5px;
+    width:100px;
+    height:3rem;
+}
